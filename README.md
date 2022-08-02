@@ -14,5 +14,5 @@
 ### Email : hidaya96@naver.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=N-Hidaya&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=N-Hidaya&count_private=true&show_icons=true&theme=radical" />
 </a>
