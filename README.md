@@ -10,7 +10,7 @@ Currently working on / learning:
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
 [![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)](https://graphql.org/)
 [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)](https://www.angular.io/)
-[![Flutter](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white](https://img.shields.io/badge/Flutter-258899?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-258899?style=flat-square&logo=Flutter&logoColor=white)](https://flutter.com/)
 
 ### Email : hidaya96@naver.com
 
